@@ -14,3 +14,4 @@
 - [Game Review 3](https://github.com/mbarron62/Game-Review-3/blob/master/README.md)
 - [Game Review 4](https://github.com/mbarron62/Game-Review-4/blob/master/README.md)
 - [Game Test Cases](https://github.com/mbarron62/Test-Case-Draft)
+- [Automated Testing](https://github.com/mbarron62/Automated-Testing)
