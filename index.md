@@ -18,4 +18,4 @@
 - [Game Critique 2](https://github.com/mbarron62/Game-Critique-2)
 - [Test Tools Research](https://github.com/mbarron62/Test-Tools-Research)
 - [Game Review 5](https://github.com/mbarron62/Game-Review-5)
-- [Game Critique 3](
+- [Game Critique 3](https://github.com/mbarron62/Game-Critique-3)
