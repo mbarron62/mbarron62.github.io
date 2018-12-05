@@ -20,3 +20,4 @@
 - [Game Review 5](https://github.com/mbarron62/Game-Review-5)
 - [Game Critique 3](https://github.com/mbarron62/Game-Critique-3)
 - [Fixes from the Fallout 76 Fallout](https://github.com/mbarron62/Fixes-from-the-Fallout-76-Fallout)
+- [Game Review 6](https://github.com/mbarron62/Game-Review-6)
